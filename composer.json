@@ -1,0 +1,23 @@
+{
+    "name": "roundcube/custimizr",
+    "type": "roundcube-plugin",
+    "description": "Plugin to set custom logo, watermark image and stylesheets by config.",
+    "license": "GNU GPLv3+",
+    "authors": [
+        {
+            "name": "Thomas Bruederli",
+            "email": "thomas@roundcube.net",
+            "role": "Lead"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://plugins.roundcube.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "roundcube/plugin-installer": ">=0.1.3"
+    }
+}
