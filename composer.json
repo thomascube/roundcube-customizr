@@ -1,5 +1,5 @@
 {
-    "name": "roundcube/custimizr",
+    "name": "roundcube/customizr",
     "type": "roundcube-plugin",
     "description": "Plugin to set custom logo, watermark image and stylesheets by config.",
     "license": "GNU GPLv3+",

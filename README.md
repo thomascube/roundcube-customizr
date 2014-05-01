@@ -1,7 +1,7 @@
 Roundcube Customizr
 ===================
 
-Plugin to set customize logo, watermark image and stylesheets by config.
+Plugin to customize logo, watermark image and stylesheets by config.
 
 Download and install via http://plugins.roundcube.net
 
