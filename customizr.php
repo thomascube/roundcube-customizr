@@ -41,6 +41,8 @@ class customizr extends rcube_plugin
     public function init()
     {
         $this->rcmail = rcube::get_instance();
+		$this->load_config();
+		
         $this->custom_css = $this->rcmail->config->get('custom_stylesheet');
         $this->custom_favicon = $this->rcmail->config->get('custom_favicon', null);
         $this->watermark_uri = $this->rcmail->config->get('custom_watermark_uri');
